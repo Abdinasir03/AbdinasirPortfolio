@@ -6,6 +6,9 @@ Clean, minimalist portfolio showcasing my journey from IoT systems to full-stack
 
 [**abdinasir-portfolio.vercel.app**](https://abdinasir-portfolio.vercel.app/)
 
+<img width="953" height="413" alt="image" src="https://github.com/user-attachments/assets/b5e8d032-bf4c-434d-b191-7a1475abeb24" />
+
+
 ## 💻 Tech Stack
 
 - **Frontend**: HTML5, CSS3, JavaScript
